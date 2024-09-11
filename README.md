@@ -11,8 +11,11 @@ The dataset consists of 627 non-pitcher players who have received at least one v
 Key Data Features:
 
 Player Demographics: Name, career span, position.
+
 Performance Metrics: Batting average, home runs, RBIs, stolen bases, and other statistics related to career performance.
+
 Voting Results: Whether the player has been inducted or not.
+
 Additionally, the model is applied to a dataset of potential candidates for the 2024 Hall of Fame, consisting of 12 players, to predict their chances of induction.
 
 Methodology:
@@ -46,7 +49,9 @@ Data-Driven Approach: Incorporates 19 factors that are important in assessing a 
 
 How to Use:
 Dataset Access: Access the dataset of 627 players and the 19 factors that influence Hall of Fame induction.
+
 Model Training: Use the logistic regression model to train on historical data and evaluate the performance based on classification accuracy.
+
 Prediction: Apply the model to new players or candidates to predict their likelihood of Hall of Fame induction.
 
 Conclusion:
